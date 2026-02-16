@@ -1,6 +1,7 @@
 langchain
 langchain-community
 langchain-core
+langchain-groq
 python-dotenv
 beautifulsoup4
 pypdf	
@@ -8,4 +9,5 @@ wikipedia
 validators
 youtube_transcript_api
 pytube
+
 unstructured
